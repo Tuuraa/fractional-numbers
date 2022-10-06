@@ -1,0 +1,16 @@
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\bin\Debug\net5.0\Fractionals.exe
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\bin\Debug\net5.0\Fractionals.deps.json
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\bin\Debug\net5.0\Fractionals.runtimeconfig.json
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\bin\Debug\net5.0\Fractionals.runtimeconfig.dev.json
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\bin\Debug\net5.0\Fractionals.dll
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\bin\Debug\net5.0\ref\Fractionals.dll
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\bin\Debug\net5.0\Fractionals.pdb
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\obj\Debug\net5.0\Fractionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\obj\Debug\net5.0\Fractionals.AssemblyInfoInputs.cache
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\obj\Debug\net5.0\Fractionals.AssemblyInfo.cs
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\obj\Debug\net5.0\Fractionals.csproj.CoreCompileInputs.cache
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\obj\Debug\net5.0\Fractionals.dll
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\obj\Debug\net5.0\ref\Fractionals.dll
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\obj\Debug\net5.0\Fractionals.pdb
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\obj\Debug\net5.0\Fractionals.genruntimeconfig.cache
+C:\Users\turap\source\repos\Fractional numb\Fractional numb\obj\Debug\net5.0\Fractionals.csproj.AssemblyReference.cache
